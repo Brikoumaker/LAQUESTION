@@ -1,0 +1,27 @@
+#### LA QUESTION V-1.1 #####
+
+
+La Question est un jeu créé avec RPG Maker 2003.
+Créé par Rémi Moreaux (Brikou)
+Textes et dialogues en français.
+
+
+Si jamais vous avez un problème technique durant votre partie, vous pouvez contacter l'auteur du jeu par mail : brikoumaker@gmail.com
+
+
+////////////////////////////////////
+
+CONTRÔLES :
+
+Flèches directionnelles : Se déplacer
+Barre Espace : Valider/Intéragir
+Echap : Annuler
+F4 : Plein écran/Fenêtré
+F5 : Taille de la fenêtre
+
+////////////////////////////////////
+
+
+
+Ce jeu est disponible gratuitement dans un cadre non lucratif.
+Interdiction de le vendre ou d'en tirer quelconque profit. 
