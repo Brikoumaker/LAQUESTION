@@ -1,0 +1,889 @@
+[2018-04-02 10:42:03] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 10:42:03] Debug: =========================================================
+[2018-04-02 10:42:03] Debug: CLI: 
+[2018-04-02 10:42:03] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 10:42:03] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 10:42:03] Debug: Using . as Game and Save directory
+[2018-04-02 10:42:03] Debug: Loading game La Question
+[2018-04-02 10:42:03] Debug: Using RPG2k3 Interpreter
+[2018-04-02 10:42:03] Debug: MP3 file (Godsibb.ogg.mp3) found
+[2018-04-02 10:42:03] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 10:42:03] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 10:42:03] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:42:03] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:42:04] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:42:04] Debug: Music not found: Godsibb
+[2018-04-02 10:42:07] Debug: Starting new game
+[2018-04-02 10:42:07] Debug: Loading Map Map0003.lmu
+[2018-04-02 10:42:07] Debug: Tree: Title
+[2018-04-02 10:42:21] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:42:21] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:00] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 10:43:00] Debug: =========================================================
+[2018-04-02 10:43:00] Debug: CLI: 
+[2018-04-02 10:43:00] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 10:43:01] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 10:43:01] Debug: Using . as Game and Save directory
+[2018-04-02 10:43:01] Debug: Loading game La Question
+[2018-04-02 10:43:01] Debug: Using RPG2k3 Interpreter
+[2018-04-02 10:43:01] Debug: MP3 file (Godsibb.ogg.mp3) found
+[2018-04-02 10:43:01] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 10:43:01] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 10:43:01] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:01] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:02] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:43:02] Debug: Music not found: Godsibb
+[2018-04-02 10:43:04] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:04] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:04] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:43:04] Debug: Music not found: Godsibb
+[2018-04-02 10:43:06] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:06] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:14] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 10:43:14] Debug: =========================================================
+[2018-04-02 10:43:14] Debug: CLI: 
+[2018-04-02 10:43:14] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 10:43:14] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 10:43:14] Debug: Using . as Game and Save directory
+[2018-04-02 10:43:14] Debug: Loading game La Question
+[2018-04-02 10:43:14] Debug: Using RPG2k3 Interpreter
+[2018-04-02 10:43:14] Debug: MP3 file (Godsibb.ogg.mp3) found
+[2018-04-02 10:43:14] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 10:43:14] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 10:43:14] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:14] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:15] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:43:15] Debug: Music not found: Godsibb
+[2018-04-02 10:43:17] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:17] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:17] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:43:17] Debug: Music not found: Godsibb
+[2018-04-02 10:43:19] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:19] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:28] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 10:43:28] Debug: =========================================================
+[2018-04-02 10:43:28] Debug: CLI: 
+[2018-04-02 10:43:28] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 10:43:28] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 10:43:28] Debug: Using . as Game and Save directory
+[2018-04-02 10:43:28] Debug: Loading game La Question
+[2018-04-02 10:43:28] Debug: Using RPG2k3 Interpreter
+[2018-04-02 10:43:28] Debug: MP3 file (Godsibb.ogg.mp3) found
+[2018-04-02 10:43:28] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 10:43:28] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 10:43:28] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:28] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:43:29] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:43:29] Debug: Music not found: Godsibb
+[2018-04-02 10:43:32] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:43:32] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:50:00] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 10:50:00] Debug: =========================================================
+[2018-04-02 10:50:00] Debug: CLI: 
+[2018-04-02 10:50:00] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 10:50:00] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 10:50:00] Debug: Using . as Game and Save directory
+[2018-04-02 10:50:00] Debug: Loading game La Question
+[2018-04-02 10:50:00] Debug: Using RPG2k3 Interpreter
+[2018-04-02 10:50:00] Debug: MP3 file (Godsibb.ogg.mp3) found
+[2018-04-02 10:50:00] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 10:50:00] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 10:50:00] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:50:00] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 10:50:01] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 10:50:01] Debug: Music not found: Godsibb
+[2018-04-02 10:50:04] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 10:50:04] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 11:02:21] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 11:02:21] Debug: =========================================================
+[2018-04-02 11:02:21] Debug: CLI: 
+[2018-04-02 11:02:21] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 11:02:21] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 11:02:21] Debug: Using . as Game and Save directory
+[2018-04-02 11:02:21] Debug: Loading game La Question
+[2018-04-02 11:02:21] Debug: Using RPG2k3 Interpreter
+[2018-04-02 11:02:21] Debug: MP3 file (Godsibb.ogg.mp3) found
+[2018-04-02 11:02:21] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 11:02:21] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 11:02:21] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 11:02:21] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 11:02:22] Debug: Cannot find: Music/Godsibb (!)
+[2018-04-02 11:02:22] Debug: Music not found: Godsibb
+[2018-04-02 11:02:24] Debug: Starting new game
+[2018-04-02 11:02:24] Debug: Loading Map Map0003.lmu
+[2018-04-02 11:02:24] Debug: Tree: Title
+[2018-04-02 11:02:41] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 11:02:41] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 13:40:35] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 13:40:35] Debug: =========================================================
+[2018-04-02 13:40:35] Debug: CLI: 
+[2018-04-02 13:40:35] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 13:40:35] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 13:40:35] Debug: Using . as Game and Save directory
+[2018-04-02 13:40:35] Debug: Loading game La Question
+[2018-04-02 13:40:35] Debug: Using RPG2k3 Interpreter
+[2018-04-02 13:40:35] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 13:40:35] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 13:40:35] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 13:40:35] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 13:40:40] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 13:40:40] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 13:41:32] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 13:41:32] Debug: =========================================================
+[2018-04-02 13:41:32] Debug: CLI: 
+[2018-04-02 13:41:32] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 13:41:32] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 13:41:32] Debug: Using . as Game and Save directory
+[2018-04-02 13:41:32] Debug: Loading game La Question
+[2018-04-02 13:41:32] Debug: Using RPG2k3 Interpreter
+[2018-04-02 13:41:32] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 13:41:32] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 13:41:32] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 13:41:32] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 13:41:54] Debug: Starting new game
+[2018-04-02 13:41:54] Debug: Loading Map Map0003.lmu
+[2018-04-02 13:41:54] Debug: Tree: Title
+[2018-04-02 13:42:00] Debug: Cannot find: Music/Godsibb.ogg (!)
+[2018-04-02 13:42:00] Debug: Music not found: Godsibb.ogg
+[2018-04-02 13:42:02] Debug: Loading Map Map0002.lmu
+[2018-04-02 13:42:02] Debug: Tree: Intro
+[2018-04-02 13:42:55] Debug: Loading Map Map0008.lmu
+[2018-04-02 13:42:55] Debug: Tree: REPhaseStation
+[2018-04-02 13:42:55] Debug: Image size out of bounds: Panorama/PanoStationREMAKE (80x80 < 640x640 < 640x480)
+[2018-04-02 13:43:26] Debug: Image size out of bounds: Picture/IntroStation3 (1x1 < 800x144 < 640x480)
+[2018-04-02 13:43:31] Debug: Image size out of bounds: Picture/IntroStation3 (1x1 < 800x144 < 640x480) [2x]
+[2018-04-02 13:43:31] Debug: Image size out of bounds: Picture/PiloteScene2 (1x1 < 240x660 < 640x480)
+[2018-04-02 13:43:34] Debug: Image size out of bounds: Picture/IntroStation4 (1x1 < 880x660 < 640x480)
+[2018-04-02 13:43:38] Debug: Image size out of bounds: Picture/IntroSalle1 (1x1 < 320x640 < 640x480)
+[2018-04-02 13:43:38] Debug: Image size out of bounds: Picture/IntroSalle2 (1x1 < 320x640 < 640x480)
+[2018-04-02 13:43:54] Debug: Image size out of bounds: Picture/PicStationREMAKE (1x1 < 640x640 < 640x480)
+[2018-04-02 13:43:54] Debug: Image size out of bounds: Picture/LightStationREMAKE (1x1 < 640x640 < 640x480)
+[2018-04-02 13:44:05] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 13:44:05] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 13:58:35] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 13:58:35] Debug: =========================================================
+[2018-04-02 13:58:35] Debug: CLI: 
+[2018-04-02 13:58:35] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 13:58:35] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 13:58:35] Debug: Using . as Game and Save directory
+[2018-04-02 13:58:35] Debug: Loading game La Question
+[2018-04-02 13:58:35] Debug: Using RPG2k3 Interpreter
+[2018-04-02 13:58:35] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 13:58:35] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 13:58:35] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 13:58:35] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 13:58:45] Debug: Starting new game
+[2018-04-02 13:58:45] Debug: Loading Map Map0003.lmu
+[2018-04-02 13:58:45] Debug: Tree: Title
+[2018-04-02 13:58:51] Debug: Cannot find: Music/Godsibb.ogg (!)
+[2018-04-02 13:58:51] Debug: Music not found: Godsibb.ogg
+[2018-04-02 13:58:58] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 13:58:58] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:00:48] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:00:48] Debug: =========================================================
+[2018-04-02 14:00:48] Debug: CLI: 
+[2018-04-02 14:00:48] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:00:48] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:00:48] Debug: Using . as Game and Save directory
+[2018-04-02 14:00:48] Debug: Loading game La Question
+[2018-04-02 14:00:48] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:00:48] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:00:48] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:00:48] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:00:48] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:00:50] Debug: Starting new game
+[2018-04-02 14:00:50] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:00:50] Debug: Tree: Title
+[2018-04-02 14:01:00] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:01:00] Debug: Tree: Intro
+[2018-04-02 14:01:47] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:01:47] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:01:48] Debug: Starting new game
+[2018-04-02 14:01:48] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:01:48] Debug: Tree: Title
+[2018-04-02 14:01:56] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:01:56] Debug: Tree: Intro
+[2018-04-02 14:02:28] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:02:28] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:03:13] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:03:13] Debug: =========================================================
+[2018-04-02 14:03:13] Debug: CLI: 
+[2018-04-02 14:03:13] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:03:13] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:03:13] Debug: Using . as Game and Save directory
+[2018-04-02 14:03:13] Debug: Loading game La Question
+[2018-04-02 14:03:13] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:03:13] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:03:13] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:03:13] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:03:13] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:03:16] Debug: Starting new game
+[2018-04-02 14:03:16] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:03:16] Debug: Tree: Title
+[2018-04-02 14:03:25] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:03:25] Debug: Tree: Intro
+[2018-04-02 14:03:52] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:03:52] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:04:26] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:04:26] Debug: =========================================================
+[2018-04-02 14:04:26] Debug: CLI: 
+[2018-04-02 14:04:26] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:04:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:04:26] Debug: Using . as Game and Save directory
+[2018-04-02 14:04:26] Debug: Loading game La Question
+[2018-04-02 14:04:26] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:04:26] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:04:26] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:04:26] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:04:26] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:04:28] Debug: Starting new game
+[2018-04-02 14:04:28] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:04:28] Debug: Tree: Title
+[2018-04-02 14:04:37] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:04:37] Debug: Tree: Intro
+[2018-04-02 14:05:10] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:05:10] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:05:11] Debug: Starting new game
+[2018-04-02 14:05:11] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:05:11] Debug: Tree: Title
+[2018-04-02 14:05:19] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:05:19] Debug: Tree: Intro
+[2018-04-02 14:05:48] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:05:48] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:06:06] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:06:06] Debug: =========================================================
+[2018-04-02 14:06:06] Debug: CLI: 
+[2018-04-02 14:06:06] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:06:06] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:06:06] Debug: Using . as Game and Save directory
+[2018-04-02 14:06:06] Debug: Loading game La Question
+[2018-04-02 14:06:06] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:06:06] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:06:06] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:06:06] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:06:06] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:06:08] Debug: Starting new game
+[2018-04-02 14:06:08] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:06:08] Debug: Tree: Title
+[2018-04-02 14:06:17] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:06:17] Debug: Tree: Intro
+[2018-04-02 14:06:46] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:06:46] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:07:02] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:07:02] Debug: =========================================================
+[2018-04-02 14:07:02] Debug: CLI: 
+[2018-04-02 14:07:02] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:07:02] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:07:02] Debug: Using . as Game and Save directory
+[2018-04-02 14:07:02] Debug: Loading game La Question
+[2018-04-02 14:07:02] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:07:02] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:07:02] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:07:02] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:07:02] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:07:04] Debug: Starting new game
+[2018-04-02 14:07:04] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:07:04] Debug: Tree: Title
+[2018-04-02 14:07:12] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:07:12] Debug: Tree: Intro
+[2018-04-02 14:07:42] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:07:42] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:07:55] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:07:55] Debug: =========================================================
+[2018-04-02 14:07:55] Debug: CLI: 
+[2018-04-02 14:07:55] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:07:55] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:07:55] Debug: Using . as Game and Save directory
+[2018-04-02 14:07:55] Debug: Loading game La Question
+[2018-04-02 14:07:55] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:07:55] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:07:55] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:07:55] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:07:55] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:07:58] Debug: Starting new game
+[2018-04-02 14:07:58] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:07:58] Debug: Tree: Title
+[2018-04-02 14:08:06] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:08:06] Debug: Tree: Intro
+[2018-04-02 14:08:42] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:08:42] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:08:55] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:08:55] Debug: =========================================================
+[2018-04-02 14:08:55] Debug: CLI: 
+[2018-04-02 14:08:55] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:08:55] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:08:55] Debug: Using . as Game and Save directory
+[2018-04-02 14:08:55] Debug: Loading game La Question
+[2018-04-02 14:08:55] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:08:55] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:08:55] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:08:55] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:08:55] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:08:59] Debug: Starting new game
+[2018-04-02 14:08:59] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:08:59] Debug: Tree: Title
+[2018-04-02 14:09:07] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:09:07] Debug: Tree: Intro
+[2018-04-02 14:09:44] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:09:44] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:09:48] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:09:48] Debug: =========================================================
+[2018-04-02 14:09:48] Debug: CLI: 
+[2018-04-02 14:09:48] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:09:49] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:09:49] Debug: Using . as Game and Save directory
+[2018-04-02 14:09:49] Debug: Loading game La Question
+[2018-04-02 14:09:49] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:09:49] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:09:49] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:09:49] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:09:49] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:09:51] Debug: Starting new game
+[2018-04-02 14:09:51] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:09:51] Debug: Tree: Title
+[2018-04-02 14:09:59] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:09:59] Debug: Tree: Intro
+[2018-04-02 14:10:28] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:10:28] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:10:42] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:10:42] Debug: =========================================================
+[2018-04-02 14:10:42] Debug: CLI: 
+[2018-04-02 14:10:42] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:10:42] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:10:42] Debug: Using . as Game and Save directory
+[2018-04-02 14:10:42] Debug: Loading game La Question
+[2018-04-02 14:10:42] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:10:42] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:10:42] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:10:42] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:10:42] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:10:44] Debug: Starting new game
+[2018-04-02 14:10:44] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:10:44] Debug: Tree: Title
+[2018-04-02 14:10:52] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:10:52] Debug: Tree: Intro
+[2018-04-02 14:11:21] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:11:21] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:11:34] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:11:34] Debug: =========================================================
+[2018-04-02 14:11:34] Debug: CLI: 
+[2018-04-02 14:11:34] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:11:34] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:11:34] Debug: Using . as Game and Save directory
+[2018-04-02 14:11:34] Debug: Loading game La Question
+[2018-04-02 14:11:34] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:11:34] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:11:34] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:11:34] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:11:34] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:11:36] Debug: Starting new game
+[2018-04-02 14:11:36] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:11:36] Debug: Tree: Title
+[2018-04-02 14:11:44] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:11:44] Debug: Tree: Intro
+[2018-04-02 14:12:31] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:12:31] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:12:32] Debug: Starting new game
+[2018-04-02 14:12:32] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:12:32] Debug: Tree: Title
+[2018-04-02 14:12:40] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:12:40] Debug: Tree: Intro
+[2018-04-02 14:13:07] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:13:07] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:13:25] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:13:25] Debug: =========================================================
+[2018-04-02 14:13:25] Debug: CLI: 
+[2018-04-02 14:13:25] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:13:25] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:13:25] Debug: Using . as Game and Save directory
+[2018-04-02 14:13:25] Debug: Loading game La Question
+[2018-04-02 14:13:25] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:13:25] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:13:25] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:13:25] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:13:25] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:13:27] Debug: Starting new game
+[2018-04-02 14:13:27] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:13:27] Debug: Tree: Title
+[2018-04-02 14:13:35] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:13:35] Debug: Tree: Intro
+[2018-04-02 14:14:17] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:14:17] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:14:17] Debug: Starting new game
+[2018-04-02 14:14:17] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:14:17] Debug: Tree: Title
+[2018-04-02 14:14:25] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:14:25] Debug: Tree: Intro
+[2018-04-02 14:14:54] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:14:54] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:15:35] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:15:35] Debug: =========================================================
+[2018-04-02 14:15:35] Debug: CLI: 
+[2018-04-02 14:15:35] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:15:35] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:15:35] Debug: Using . as Game and Save directory
+[2018-04-02 14:15:35] Debug: Loading game La Question
+[2018-04-02 14:15:35] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:15:35] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:15:35] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:15:35] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:15:35] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:15:38] Debug: Starting new game
+[2018-04-02 14:15:38] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:15:38] Debug: Tree: Title
+[2018-04-02 14:15:46] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:15:46] Debug: Tree: Intro
+[2018-04-02 14:16:41] Debug: Loading Map Map0008.lmu
+[2018-04-02 14:16:41] Debug: Tree: REPhaseStation
+[2018-04-02 14:16:41] Debug: Image size out of bounds: Panorama/PanoStationREMAKE (80x80 < 640x640 < 640x480)
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:53] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:53] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:54] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:54] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:54] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:54] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:54] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:54] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:54] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:54] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:54] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:54] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:55] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:55] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:55] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:55] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:55] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:55] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:55] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:55] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:56] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:56] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip3
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:57] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:57] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip1
+[2018-04-02 14:16:58] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:58] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:59] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:59] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:59] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:59] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:59] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:59] Debug: Sound not found: BipBip2
+[2018-04-02 14:16:59] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:16:59] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:00] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:00] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:00] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:00] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:00] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:00] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:00] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:00] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:00] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:00] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:01] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:01] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:02] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:02] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:03] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:03] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip1
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:04] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:04] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:05] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:05] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:05] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:05] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:05] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:05] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:05] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:05] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:05] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:05] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:06] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:06] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:06] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 14:17:06] Debug: Sound not found: BipBip2
+[2018-04-02 14:17:06] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:06] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:06] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:06] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:06] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:06] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:07] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:07] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:07] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:07] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:07] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:07] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:07] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:07] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:07] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:07] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:07] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:07] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:08] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:08] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:08] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:08] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:08] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:08] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:08] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:08] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:08] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 14:17:08] Debug: Sound not found: BipBip3
+[2018-04-02 14:17:08] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:08] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:09] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:09] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:09] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:09] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:09] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:09] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:10] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:10] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:10] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:10] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:10] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:10] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:11] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:11] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:11] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:11] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:11] Debug: Cannot find: Sound/BipBip4 (!)
+[2018-04-02 14:17:11] Debug: Sound not found: BipBip4
+[2018-04-02 14:17:12] Debug: Image size out of bounds: Picture/IntroStation3 (1x1 < 800x144 < 640x480)
+[2018-04-02 14:17:16] Debug: Image size out of bounds: Picture/IntroStation3 (1x1 < 800x144 < 640x480) [2x]
+[2018-04-02 14:17:16] Debug: Image size out of bounds: Picture/PiloteScene2 (1x1 < 240x660 < 640x480)
+[2018-04-02 14:17:19] Debug: Image size out of bounds: Picture/IntroStation4 (1x1 < 880x660 < 640x480)
+[2018-04-02 14:17:23] Debug: Image size out of bounds: Picture/IntroSalle1 (1x1 < 320x640 < 640x480)
+[2018-04-02 14:17:23] Debug: Image size out of bounds: Picture/IntroSalle2 (1x1 < 320x640 < 640x480)
+[2018-04-02 14:17:39] Debug: Image size out of bounds: Picture/PicStationREMAKE (1x1 < 640x640 < 640x480)
+[2018-04-02 14:17:39] Debug: Image size out of bounds: Picture/LightStationREMAKE (1x1 < 640x640 < 640x480)
+[2018-04-02 14:17:54] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:17:54] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:35:16] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 14:35:16] Debug: =========================================================
+[2018-04-02 14:35:16] Debug: CLI: 
+[2018-04-02 14:35:16] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 14:35:16] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 14:35:16] Debug: Using . as Game and Save directory
+[2018-04-02 14:35:16] Debug: Loading game La Question
+[2018-04-02 14:35:16] Debug: Using RPG2k3 Interpreter
+[2018-04-02 14:35:16] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 14:35:16] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 14:35:16] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:35:16] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 14:35:33] Debug: Starting new game
+[2018-04-02 14:35:33] Debug: Loading Map Map0003.lmu
+[2018-04-02 14:35:33] Debug: Tree: Title
+[2018-04-02 14:35:44] Debug: Loading Map Map0002.lmu
+[2018-04-02 14:35:44] Debug: Tree: Intro
+[2018-04-02 14:36:18] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 14:36:18] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 15:12:19] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 15:12:19] Debug: =========================================================
+[2018-04-02 15:12:19] Debug: CLI: 
+[2018-04-02 15:12:19] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 15:12:19] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 15:12:19] Debug: Using . as Game and Save directory
+[2018-04-02 15:12:19] Debug: Loading game La Question
+[2018-04-02 15:12:19] Debug: Using RPG2k3 Interpreter
+[2018-04-02 15:12:19] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 15:12:19] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 15:12:19] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 15:12:19] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 15:12:21] Debug: Starting new game
+[2018-04-02 15:12:21] Debug: Loading Map Map0008.lmu
+[2018-04-02 15:12:21] Debug: Tree: REPhaseStation
+[2018-04-02 15:12:21] Debug: Image size out of bounds: Panorama/PanoStationREMAKE (80x80 < 640x640 < 640x480)
+[2018-04-02 15:12:29] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 15:12:29] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 15:17:12] Debug: EasyRPG Player 0.5.3 (git~65@476d5d6, 2018-03-02) started
+[2018-04-02 15:17:12] Debug: =========================================================
+[2018-04-02 15:17:12] Debug: CLI: 
+[2018-04-02 15:17:12] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2018-04-02 15:17:12] Debug: Detected encoding: ibm-5348_P100-1997
+[2018-04-02 15:17:12] Debug: Using . as Game and Save directory
+[2018-04-02 15:17:12] Debug: Loading game La Question
+[2018-04-02 15:17:12] Debug: Using RPG2k3 Interpreter
+[2018-04-02 15:17:12] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2018-04-02 15:17:12] Debug: Engine configured as: 2k=0 2k3=1 2k3Legacy=1 MajorUpdated=1 Eng=0
+[2018-04-02 15:17:12] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 15:17:12] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
+[2018-04-02 15:17:14] Debug: Starting new game
+[2018-04-02 15:17:14] Debug: Loading Map Map0003.lmu
+[2018-04-02 15:17:14] Debug: Tree: Title
+[2018-04-02 15:17:25] Debug: Loading Map Map0002.lmu
+[2018-04-02 15:17:25] Debug: Tree: Intro
+[2018-04-02 15:18:15] Debug: Loading Map Map0008.lmu
+[2018-04-02 15:18:15] Debug: Tree: REPhaseStation
+[2018-04-02 15:18:15] Debug: Image size out of bounds: Panorama/PanoStationREMAKE (80x80 < 640x640 < 640x480)
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip1 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip1
+[2018-04-02 15:18:27] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:27] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:28] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:28] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:28] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:28] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:28] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:28] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:28] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:28] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:29] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:29] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:29] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:29] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:29] Debug: Cannot find: Sound/BipBip2 (!)
+[2018-04-02 15:18:29] Debug: Sound not found: BipBip2
+[2018-04-02 15:18:29] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 15:18:29] Debug: Sound not found: BipBip3
+[2018-04-02 15:18:29] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 15:18:29] Debug: Sound not found: BipBip3
+[2018-04-02 15:18:30] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 15:18:30] Debug: Sound not found: BipBip3
+[2018-04-02 15:18:30] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 15:18:30] Debug: Sound not found: BipBip3
+[2018-04-02 15:18:30] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 15:18:30] Debug: Sound not found: BipBip3
+[2018-04-02 15:18:30] Debug: Cannot find: Sound/BipBip3 (!)
+[2018-04-02 15:18:30] Debug: Sound not found: BipBip3
+[2018-04-02 15:18:30] Debug: Actor 1: Removing invalid item 17 (of type 0) from equipment slot 1 (needs type 1)
+[2018-04-02 15:18:30] Debug: Actor 1: Removing invalid item 44 (of type 0) from equipment slot 2 (needs type 2)
